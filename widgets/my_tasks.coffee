@@ -1,10 +1,10 @@
-command: "/usr/local/bin/python2 /Users/mattbramlage/uebersicht_scripts/tasks_assigned_to_me.py"
+command: "/usr/local/bin/python2 /Users/matt/Development/uebersicht_scripts/tasks_assigned_to_me.py"
 
 refreshFrequency: 5 * 1000 * 60
 
 style: """
   bottom: 30px
-  left: 20px
+  left: 100px
   color: #fff
   font-family: Helvetica Neue
 
