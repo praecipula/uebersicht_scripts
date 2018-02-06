@@ -1,0 +1,5 @@
+*.swp
+*.swo
+secrets.json
+google_secrets.json
+sheets_grabber_tokenstore.json
